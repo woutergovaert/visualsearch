@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+torch = "*"
+torchvision = "*"
+opencv-python = "*"
+tensorflow = "*"
+numpy = "*"
+pillow = "*"
+flask-cors = "*"
+transformers = "*"
+extcolors = "*"
+waitress = "*"
+python-dotenv = "*"
+scikit-image = "*"
+face-recognition = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9.11"

@@ -1,0 +1,14 @@
+flask
+torch
+torchvision
+opencv-python
+tensorflow
+numpy
+pillow
+flask_cors
+transformers
+extcolors
+waitress
+python-dotenv
+scikit-image
+face_recognition
